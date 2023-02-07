@@ -1,0 +1,6 @@
+Setting,Value;
+SecureBoot,Enable;
+SecurityChip,Enable;
+VirtualizationTechnology,Enable;
+VTdFeature,Enable;
+Intel(R) Virtualization Technology,Enabled;
